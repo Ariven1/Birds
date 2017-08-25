@@ -12,6 +12,7 @@
 		D2C33D8C1F50897C00F2EB9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2C33D8A1F50897C00F2EB9E /* Main.storyboard */; };
 		D2C33D8E1F50897C00F2EB9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2C33D8D1F50897C00F2EB9E /* Assets.xcassets */; };
 		D2C33D911F50897C00F2EB9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2C33D8F1F50897C00F2EB9E /* LaunchScreen.storyboard */; };
+		D2C33D991F508E5100F2EB9E /* MaxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2C33D981F508E5000F2EB9E /* MaxViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D2C33D8D1F50897C00F2EB9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2C33D901F50897C00F2EB9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2C33D921F50897C00F2EB9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2C33D981F508E5000F2EB9E /* MaxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaxViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D2C33D8D1F50897C00F2EB9E /* Assets.xcassets */,
 				D2C33D8F1F50897C00F2EB9E /* LaunchScreen.storyboard */,
 				D2C33D921F50897C00F2EB9E /* Info.plist */,
+				D2C33D981F508E5000F2EB9E /* MaxViewController.swift */,
 			);
 			path = Parrot;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D2C33D891F50897C00F2EB9E /* ViewController.swift in Sources */,
+				D2C33D991F508E5100F2EB9E /* MaxViewController.swift in Sources */,
 				D2C33D871F50897C00F2EB9E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
